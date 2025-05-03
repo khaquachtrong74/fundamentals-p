@@ -1,0 +1,817 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=a6a3f1b33758513a8a73bfaa0f4f8931037f976c&filter=rising&page=2",
+  "previous": null,
+  "results": [
+    {
+      "kind": "news",
+      "domain": "cryptobriefing.com",
+      "votes": {
+        "negative": 5,
+        "positive": 0,
+        "important": 0,
+        "liked": 1,
+        "disliked": 5,
+        "lol": 6,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "CryptoBriefing",
+        "region": "en",
+        "domain": "cryptobriefing.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "CME Group set to debut XRP futures on May 19",
+      "published_at": "2025-04-24T13:47:32Z",
+      "slug": "CME-Group-set-to-debut-XRP-futures-on-May-19",
+      "currencies": [
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        }
+      ],
+      "id": 21306137,
+      "url": "https://cryptopanic.com/news/21306137/CME-Group-set-to-debut-XRP-futures-on-May-19?mtm_campaign=API-OFA",
+      "created_at": "2025-04-24T13:47:32Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptobriefing.com",
+      "votes": {
+        "negative": 0,
+        "positive": 3,
+        "important": 0,
+        "liked": 3,
+        "disliked": 0,
+        "lol": 2,
+        "toxic": 0,
+        "saved": 2,
+        "comments": 0
+      },
+      "source": {
+        "title": "CryptoBriefing",
+        "region": "en",
+        "domain": "cryptobriefing.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Cardano founder says Ethereum will go extinct in 10 to 15 years, like BlackBerry and Myspace",
+      "published_at": "2025-04-24T13:33:02Z",
+      "slug": "Cardano-founder-says-Ethereum-will-go-extinct-in-10-to-15-years-like-BlackBerry-and-Myspace",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "ADA",
+          "title": "Cardano",
+          "slug": "cardano",
+          "url": "https://cryptopanic.com/news/cardano/"
+        }
+      ],
+      "id": 21306022,
+      "url": "https://cryptopanic.com/news/21306022/Cardano-founder-says-Ethereum-will-go-extinct-in-10-to-15-years-like-BlackBerry-and-Myspace?mtm_campaign=API-OFA",
+      "created_at": "2025-04-24T13:33:02Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptobriefing.com",
+      "votes": {
+        "negative": 4,
+        "positive": 7,
+        "important": 1,
+        "liked": 5,
+        "disliked": 5,
+        "lol": 8,
+        "toxic": 0,
+        "saved": 4,
+        "comments": 2
+      },
+      "source": {
+        "title": "CryptoBriefing",
+        "region": "en",
+        "domain": "cryptobriefing.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Trump to host exclusive dinner for top $TRUMP holders, token jumps over 70%",
+      "published_at": "2025-04-23T17:45:27Z",
+      "slug": "Trump-to-host-exclusive-dinner-for-top-TRUMP-holders-token-jumps-over-70",
+      "currencies": [
+        {
+          "code": "TRUMP",
+          "title": "Official Trump",
+          "slug": "official-trump",
+          "url": "https://cryptopanic.com/news/official-trump/"
+        },
+        {
+          "code": "MEME",
+          "title": "Memecoin",
+          "slug": "memecoin-2",
+          "url": "https://cryptopanic.com/news/memecoin-2/"
+        }
+      ],
+      "id": 21278549,
+      "url": "https://cryptopanic.com/news/21278549/Trump-to-host-exclusive-dinner-for-top-TRUMP-holders-token-jumps-over-70?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T17:45:27Z"
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "votes": {
+        "negative": 2,
+        "positive": 4,
+        "important": 2,
+        "liked": 6,
+        "disliked": 2,
+        "lol": 2,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 9
+      },
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ubisoft Brings 'Might &#038; Magic' to Ethereum via Immutable Card Game",
+      "published_at": "2025-04-23T15:38:59Z",
+      "slug": "Ubisoft-Brings-Might-038-Magic-to-Ethereum-via-Immutable-Card-Game",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21275374,
+      "url": "https://cryptopanic.com/news/21275374/Ubisoft-Brings-Might-038-Magic-to-Ethereum-via-Immutable-Card-Game?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T15:38:59Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cointrackdaily.com",
+      "votes": {
+        "negative": 2,
+        "positive": 3,
+        "important": 2,
+        "liked": 3,
+        "disliked": 2,
+        "lol": 2,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 2
+      },
+      "source": {
+        "title": "cointrack daily",
+        "region": "en",
+        "domain": "cointrackdaily.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Scroll launches \u2018Euclid\u2019 upgrade to slash Ethereum layer 2 fees by 90%",
+      "published_at": "2025-04-23T15:15:23Z",
+      "slug": "Scroll-launches-Euclid-upgrade-to-slash-Ethereum-layer-2-fees-by-90",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21274834,
+      "url": "https://cryptopanic.com/news/21274834/Scroll-launches-Euclid-upgrade-to-slash-Ethereum-layer-2-fees-by-90?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T15:15:23Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "votes": {
+        "negative": 5,
+        "positive": 1,
+        "important": 2,
+        "liked": 1,
+        "disliked": 5,
+        "lol": 5,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 3
+      },
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Institutions break up with Ethereum but keep ETH on the hook",
+      "published_at": "2025-04-23T15:09:56Z",
+      "slug": "Institutions-break-up-with-Ethereum-but-keep-ETH-on-the-hook",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21274553,
+      "url": "https://cryptopanic.com/news/21274553/Institutions-break-up-with-Ethereum-but-keep-ETH-on-the-hook?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T15:09:56Z"
+    },
+    {
+      "kind": "news",
+      "domain": "solanafloor.com",
+      "votes": {
+        "negative": 3,
+        "positive": 5,
+        "important": 0,
+        "liked": 6,
+        "disliked": 3,
+        "lol": 3,
+        "toxic": 0,
+        "saved": 5,
+        "comments": 3
+      },
+      "source": {
+        "title": "Solanafloor",
+        "region": "en",
+        "domain": "solanafloor.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Why You Should Use Solana Seeker Instead of iPhone or Android",
+      "published_at": "2025-04-23T13:02:00Z",
+      "slug": "Why-You-Should-Use-Solana-Seeker-Instead-of-iPhone-or-Android",
+      "currencies": [
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21269932,
+      "url": "https://cryptopanic.com/news/21269932/Why-You-Should-Use-Solana-Seeker-Instead-of-iPhone-or-Android?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T13:02:00Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "votes": {
+        "negative": 1,
+        "positive": 8,
+        "important": 2,
+        "liked": 7,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 6,
+        "comments": 0
+      },
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "What are spot Solana ETFs with staking? Canada\u2019s crypto innovation explained",
+      "published_at": "2025-04-23T08:05:00Z",
+      "slug": "What-are-spot-Solana-ETFs-with-staking-Canadas-crypto-innovation-explained",
+      "currencies": [
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21260704,
+      "url": "https://cryptopanic.com/news/21260704/What-are-spot-Solana-ETFs-with-staking-Canadas-crypto-innovation-explained?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T08:05:00Z"
+    },
+    {
+      "kind": "news",
+      "domain": "altcoinbuzz.io",
+      "votes": {
+        "negative": 5,
+        "positive": 0,
+        "important": 1,
+        "liked": 0,
+        "disliked": 5,
+        "lol": 6,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 2
+      },
+      "source": {
+        "title": "Altcoinbuzz",
+        "region": "en",
+        "domain": "altcoinbuzz.io",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Is Ethereum ETH a Dead Altcoin? Sui & Solana Taking Over?",
+      "published_at": "2025-04-23T05:48:12Z",
+      "slug": "Is-Ethereum-ETH-a-Dead-Altcoin-Sui-Solana-Taking-Over",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        },
+        {
+          "code": "SUI",
+          "title": "Sui",
+          "slug": "sui",
+          "url": "https://cryptopanic.com/news/sui/"
+        }
+      ],
+      "id": 21256444,
+      "url": "https://cryptopanic.com/news/21256444/Is-Ethereum-ETH-a-Dead-Altcoin-Sui-Solana-Taking-Over?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T05:48:12Z"
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "votes": {
+        "negative": 0,
+        "positive": 8,
+        "important": 4,
+        "liked": 7,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "MoonPay CEO Predicts Crypto Wallets to Replace Traditional Bank Accounts",
+      "published_at": "2025-04-23T04:42:51Z",
+      "slug": "MoonPay-CEO-Predicts-Crypto-Wallets-to-Replace-Traditional-Bank-Accounts",
+      "currencies": [
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21255754,
+      "url": "https://cryptopanic.com/news/21255754/MoonPay-CEO-Predicts-Crypto-Wallets-to-Replace-Traditional-Bank-Accounts?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T04:42:51Z"
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "votes": {
+        "negative": 5,
+        "positive": 4,
+        "important": 4,
+        "liked": 2,
+        "disliked": 5,
+        "lol": 6,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 12
+      },
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ethereum (ETH) Underperforms All Top 5 Major Cryptos in Brutal 2025 Downtrend",
+      "published_at": "2025-04-23T00:00:00Z",
+      "slug": "Ethereum-ETH-Underperforms-All-Top-5-Major-Cryptos-in-Brutal-2025-Downtrend",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21251749,
+      "url": "https://cryptopanic.com/news/21251749/Ethereum-ETH-Underperforms-All-Top-5-Major-Cryptos-in-Brutal-2025-Downtrend?mtm_campaign=API-OFA",
+      "created_at": "2025-04-23T00:00:00Z"
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "votes": {
+        "negative": 5,
+        "positive": 5,
+        "important": 3,
+        "liked": 4,
+        "disliked": 5,
+        "lol": 5,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ethereum Holds Above MVRV Band Low \u2013 A Final Dip Before Recovery?",
+      "published_at": "2025-04-22T22:30:02Z",
+      "slug": "Ethereum-Holds-Above-MVRV-Band-Low-A-Final-Dip-Before-Recovery",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21249796,
+      "url": "https://cryptopanic.com/news/21249796/Ethereum-Holds-Above-MVRV-Band-Low-A-Final-Dip-Before-Recovery?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T22:30:02Z"
+    },
+    {
+      "kind": "news",
+      "domain": "zycrypto.com",
+      "votes": {
+        "negative": 1,
+        "positive": 3,
+        "important": 1,
+        "liked": 3,
+        "disliked": 1,
+        "lol": 6,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "ZyCrypto",
+        "region": "en",
+        "domain": "zycrypto.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ripple\u2019s XRP ETF Approval Poised to Catapult XRP Bulls to Never-Before-Seen Levels",
+      "published_at": "2025-04-22T22:21:59Z",
+      "slug": "Ripples-XRP-ETF-Approval-Poised-to-Catapult-XRP-Bulls-to-Never-Before-Seen-Levels",
+      "currencies": [
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        },
+        {
+          "code": "J",
+          "title": "Jambo",
+          "slug": "jambo",
+          "url": "https://cryptopanic.com/news/jambo/"
+        }
+      ],
+      "id": 21249792,
+      "url": "https://cryptopanic.com/news/21249792/Ripples-XRP-ETF-Approval-Poised-to-Catapult-XRP-Bulls-to-Never-Before-Seen-Levels?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T22:21:59Z"
+    },
+    {
+      "kind": "news",
+      "domain": "zycrypto.com",
+      "votes": {
+        "negative": 6,
+        "positive": 6,
+        "important": 2,
+        "liked": 6,
+        "disliked": 6,
+        "lol": 5,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 2
+      },
+      "source": {
+        "title": "ZyCrypto",
+        "region": "en",
+        "domain": "zycrypto.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Cardano\u2019s Ongoing Price Consolidation Might be Setting the Stage for a Potential 270% Price Jump",
+      "published_at": "2025-04-22T22:16:35Z",
+      "slug": "Cardanos-Ongoing-Price-Consolidation-Might-be-Setting-the-Stage-for-a-Potential-270-Price-Jump",
+      "currencies": [
+        {
+          "code": "ADA",
+          "title": "Cardano",
+          "slug": "cardano",
+          "url": "https://cryptopanic.com/news/cardano/"
+        }
+      ],
+      "id": 21249752,
+      "url": "https://cryptopanic.com/news/21249752/Cardanos-Ongoing-Price-Consolidation-Might-be-Setting-the-Stage-for-a-Potential-270-Price-Jump?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T22:16:35Z"
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "votes": {
+        "negative": 3,
+        "positive": 6,
+        "important": 4,
+        "liked": 6,
+        "disliked": 3,
+        "lol": 3,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 2
+      },
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ethereum\u2019s \u2018Pectra\u2019 upgrade could be a game-changer for users and validators \u2013 Here\u2019s what to expect",
+      "published_at": "2025-04-22T15:00:07Z",
+      "slug": "Ethereums-Pectra-upgrade-could-be-a-game-changer-for-users-and-validators-Heres-what-to-expect",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "$1",
+          "title": "just buy $1 worth of this coin",
+          "slug": "just-buy-1-worth-of-this-coin",
+          "url": "https://cryptopanic.com/news/just-buy-1-worth-of-this-coin/"
+        }
+      ],
+      "id": 21239400,
+      "url": "https://cryptopanic.com/news/21239400/Ethereums-Pectra-upgrade-could-be-a-game-changer-for-users-and-validators-Heres-what-to-expect?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T15:00:07Z"
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "votes": {
+        "negative": 5,
+        "positive": 12,
+        "important": 4,
+        "liked": 9,
+        "disliked": 5,
+        "lol": 6,
+        "toxic": 0,
+        "saved": 2,
+        "comments": 2
+      },
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Ethereum: 1.83M new users in a week \u2013 A prelude to price recovery?",
+      "published_at": "2025-04-22T12:00:57Z",
+      "slug": "Ethereum-183M-new-users-in-a-week-A-prelude-to-price-recovery",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "$1",
+          "title": "just buy $1 worth of this coin",
+          "slug": "just-buy-1-worth-of-this-coin",
+          "url": "https://cryptopanic.com/news/just-buy-1-worth-of-this-coin/"
+        }
+      ],
+      "id": 21233860,
+      "url": "https://cryptopanic.com/news/21233860/Ethereum-183M-new-users-in-a-week-A-prelude-to-price-recovery?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T12:00:57Z"
+    },
+    {
+      "kind": "news",
+      "domain": "theblock.co",
+      "votes": {
+        "negative": 0,
+        "positive": 4,
+        "important": 0,
+        "liked": 4,
+        "disliked": 2,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 5,
+        "comments": 0
+      },
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblock.co",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Galaxy Digital swaps $106 million ETH for SOL, as ether dominance drops to record low",
+      "published_at": "2025-04-22T10:51:16Z",
+      "slug": "Galaxy-Digital-swaps-106-million-ETH-for-SOL-as-ether-dominance-drops-to-record-low",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21231695,
+      "url": "https://cryptopanic.com/news/21231695/Galaxy-Digital-swaps-106-million-ETH-for-SOL-as-ether-dominance-drops-to-record-low?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T10:51:16Z"
+    },
+    {
+      "kind": "news",
+      "domain": "ihodl.com",
+      "votes": {
+        "negative": 0,
+        "positive": 5,
+        "important": 1,
+        "liked": 5,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 5,
+        "comments": 0
+      },
+      "source": {
+        "title": "Insider.pro",
+        "region": "en",
+        "domain": "ihodl.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "ARK Invest Adds Solana to Two ETFs",
+      "published_at": "2025-04-22T10:00:06Z",
+      "slug": "ARK-Invest-Adds-Solana-to-Two-ETFs",
+      "currencies": [
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        },
+        {
+          "code": "ARK",
+          "title": "ARK",
+          "slug": "ark",
+          "url": "https://cryptopanic.com/news/ark/"
+        }
+      ],
+      "id": 21231158,
+      "url": "https://cryptopanic.com/news/21231158/ARK-Invest-Adds-Solana-to-Two-ETFs?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T10:00:06Z"
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "votes": {
+        "negative": 0,
+        "positive": 4,
+        "important": 0,
+        "liked": 4,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 4,
+        "comments": 1
+      },
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Galaxy Digital's Mike Novogratz Swaps 65,600 ETH for 752,240 SOL Amid Market Shifts",
+      "published_at": "2025-04-22T09:35:08Z",
+      "slug": "Galaxy-Digitals-Mike-Novogratz-Swaps-65600-ETH-for-752240-SOL-Amid-Market-Shifts",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21229978,
+      "url": "https://cryptopanic.com/news/21229978/Galaxy-Digitals-Mike-Novogratz-Swaps-65600-ETH-for-752240-SOL-Amid-Market-Shifts?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T09:35:08Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "votes": {
+        "negative": 0,
+        "positive": 4,
+        "important": 0,
+        "liked": 4,
+        "disliked": 1,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 4,
+        "comments": 0
+      },
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed"
+      },
+      "title": "Galaxy Digital swapped $100M ETH for Solana (SOL) as meme activity picks",
+      "published_at": "2025-04-22T09:03:19Z",
+      "slug": "Galaxy-Digital-swapped-100M-ETH-for-Solana-SOL-as-meme-activity-picks",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21228694,
+      "url": "https://cryptopanic.com/news/21228694/Galaxy-Digital-swapped-100M-ETH-for-Solana-SOL-as-meme-activity-picks?mtm_campaign=API-OFA",
+      "created_at": "2025-04-22T09:03:19Z"
+    }
+  ]
+}
